@@ -15,6 +15,9 @@
   },
   "dependencies": {
     "iview": "^2.14.0-rc.3",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "muse-ui": "^3.0.0-beta.1",
     "vue": "^2.5.2",
     "vue-resource": "^1.5.1",
     "vue-router": "^3.0.1"
