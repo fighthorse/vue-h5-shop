@@ -7,9 +7,9 @@ return [
     // 数据库名
     'database'        => 'vuehsop',
     // 用户名
-    'username'        => 'root',
+    'username'        => 'rootxin',
     // 密码
-    'password'        => 'xinchao913',
+    'password'        => 'xinchao@@123',
     // 端口
     'hostport'        => '3306',
     // 连接dsn

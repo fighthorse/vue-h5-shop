@@ -1,3 +1,4 @@
+/* eslint-disable */
 let bindToGlobal = (obj, key='var') => {
     if (typeof window[key] === 'undefined') {
         window[key] = {};
@@ -10,7 +11,7 @@ let bindToGlobal = (obj, key='var') => {
 
 //配置全局变量
 httpConfig = {
-	'apiurl':'http://apitest.fighthorse.cn',
+	'apiurl':'http://api.fighthorse.cn',
 };
 
 weixinConfig = {
